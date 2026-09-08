@@ -62,9 +62,26 @@
 
 不需要安裝程式。可以直接開啟 [GitHub 儲存庫](https://github.com/jokersosmart/thought)，或下載／複製專案後閱讀索引與清單。
 
+#### 下載 ZIP
+
+適合不熟悉 Git 的使用者：
+
+1. 開啟 GitHub 儲存庫。
+2. 點選綠色的 **Code** 按鈕。
+3. 選擇 **Download ZIP**。
+4. 解壓縮後，先開啟根目錄的 `README.md`，再依序閱讀整合索引與 `思考習慣清單_v3.md`。
+
+#### 使用 Git 複製
+
+適合需要持續同步更新的使用者：
+
 ```bash
 git clone https://github.com/jokersosmart/thought.git
 ```
+
+複製完成後，進入 `thought/how_to_though` 資料夾，從 [整合索引](../AI時代思考指南_全課程逐字稿索引.md) 找到與問題最接近的內容，再查看[思考習慣清單](../思考習慣清單_v3.md)與相關報告。
+
+如果只想讓 AI 協助分析問題，不需要一次提供所有逐字稿；先提供 `思考習慣清單_v3.md`，再提供最相關的 1–3 份逐字稿或決策報告即可。
 
 建議從以下順序開始：
 
